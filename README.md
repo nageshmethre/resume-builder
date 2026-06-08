@@ -1,7 +1,7 @@
-<img width="960" height="600" alt="Screenshot 2026-06-05 152337" src="https://github.com/user-attachments/assets/ce464adf-2e38-4023-a524-0cc65bdba8b3" />
-<img width="960" height="600" alt="Screenshot 2026-06-05 152209" src="https://github.com/user-attachments/assets/08bbab1c-94b2-4d57-aa1e-2bfbe9c33cea" />
-<img width="960" height="600" alt="Screenshot 2026-06-05 152209" src="https://github.com/user-attachments/assets/16c6bc94-9a97-449e-9075-ecca4f090790" />
-<img width="960" height="600" alt="Screenshot 2026-06-05 152141" src="https://github.com/user-attachments/assets/20a469a9-1666-4ade-8d7c-04f696e01ae3" />
+<img width="960" height="600" alt="Screenshot 2026-06-05 152337" src="https://github.com/user-attachments/assets/282211f1-5a9a-4c7b-be3c-01374f9866e3" />
+<img width="960" height="600" alt="Screenshot 2026-06-05 152209" src="https://github.com/user-attachments/assets/ccbd26b1-d940-4de3-b7b8-ef8a1bc6a754" />
+<img width="960" height="600" alt="Screenshot 2026-06-05 152141" src="https://github.com/user-attachments/assets/c0247419-da58-45bb-8b27-2d1f94ad2f38" />
+
 # Resume Builder
 
 Resume Builder is a modern web application designed to simplify the process of creating professional, ATS-friendly resumes for students, freshers, and experienced professionals.
