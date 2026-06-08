@@ -1,0 +1,26 @@
+how to install resume builder :---
+
+step 1:- extract resume-builder file
+step 2:- copy file in c: drive 
+                  it should look like resume-builder
+                                                                 -application.properties
+                                                                 -resueme-builder-1.0.0.jar
+step3:- now open cmd 
+                type: winget install Oracle.JDK.17
+                 now check if insalled or not 
+                    java -version 
+step4 :- insall mysql 
+                 now open cmd 
+                  type winget install Oracle.MySQL
+
+              set path : setx PATH "%PATH%;C:\Program Files\MySQL\MySQL Server 8.0\bin" /M
+               set password mysql -u root -p
+              not dont give any passowd just press enter 
+step 5 : Open CMD inside reume-builder:
+               cd C:\resume-builder
+step 6 run it 
+      java -jar resume-builder-1.0.0.jar
+step 7 open browser 
+       http://localhost:8080
+step 8 stop 
+   press ctrl+c
